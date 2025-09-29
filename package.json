@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Blog about personal finance",
+  "keywords": [
+    "kakebook"
+  ],
+  "homepage": "https://github.com/wfercanas/kakebook-blog#readme",
+  "bugs": {
+    "url": "https://github.com/wfercanas/kakebook-blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfercanas/kakebook-blog.git"
+  },
+  "license": "ISC",
+  "author": "wfercanas",
+  "type": "module",
+  "main": "./server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
