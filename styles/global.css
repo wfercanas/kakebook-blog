@@ -1,0 +1,27 @@
+:root {
+  --neutral: #333333;
+  --green: #57c5b6;
+  --purple: #635985;
+  --red: #de275f;
+  --orange: #ffa62f;
+  --blue: #5583bf;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  color: var(--neutral);
+  padding: 64px 32px;
+}
+
+a:link {
+  color: var(--green);
+}
+
+a:visited {
+  color: var(--purple);
+}
+
+article {
+  line-height: 1.6;
+}
