@@ -1,4 +1,4 @@
-# BLOG
+# BLOG
 
 Welcome! This blog is for learning about Personal Finance.
 
